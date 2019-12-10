@@ -1,4 +1,13 @@
+<div align="center">
+<a href="https://www.cemac.leeds.ac.uk/">
+  <img src="https://github.com/cemac/cemac_generic/blob/master/Images/cemac.png"></a>
+  <br>
+</div>
+
 ## imd_grd_to_nc
+
+[![GitHub top language](https://img.shields.io/github/languages/top/cemac/imd_grd_to_nc.svg)](https://github.com/cemac/imd_grd_to_nc) [![GitHub issues](https://img.shields.io/github/issues/cemac/imd_grd_to_nc.svg)](https://github.com/cemac/imd_grd_to_nc/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/cemac/imd_grd_to_nc.svg)](https://github.com/cemac/imd_grd_to_nc/commits/master)  ![GitHub](https://img.shields.io/github/license/cemac/imd_grd_to_nc.svg)
+[![HitCount](http://hits.dwyl.io/{cemac}/{imd_grd_to_nc}.svg)](http://hits.dwyl.io/{cemac}/{imd_grd_to_nc})
 
 Convert IMD GRD data files to NetCDF
 
