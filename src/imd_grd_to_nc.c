@@ -47,7 +47,7 @@ int usage(int full) {
            "Convert IMD GRD files to NetCDF\n"
            "\n"
            "  -h --help         Display this help message and exit\n"
-           "  -o --infile       The input GRD file to read\n"
+           "  -i --infile       The input GRD file to read\n"
            "  -o --outfile      The output NetCDF file to create\n"
            "                    If not specified, the input file name will be used to\n"
            "                    determine a name for the output file\n"
